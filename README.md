@@ -1,1 +1,1 @@
-# ids-hands-on-exam1-practice
+# Practice GIT for Hands-on exam for IDS
